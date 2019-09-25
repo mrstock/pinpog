@@ -1,7 +1,7 @@
 [![Tsoding](https://img.shields.io/badge/twitch.tv-tsoding-purple?logo=twitch&style=for-the-badge)](https://www.twitch.tv/tsoding)
 [![Build Status](https://travis-ci.org/tsoding/pinpog.svg?branch=master)](https://travis-ci.org/tsoding/pinpog)
 
-# PinPog
+# PinPog test
 
 Our goal is to write a game that fits into 512 bytes bootloader and
 works in 16 bit real mode on any IBM PC compatible machine without any
