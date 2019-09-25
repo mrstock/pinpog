@@ -313,7 +313,7 @@ istruc GameState
   at GameState.score_sign, times SCORE_DIGIT_COUNT db '0'
 iend
 
-game_over_sign: db "Game Over"
+game_over_sign: db "Game OVER"
 game_over_sign_len equ $ - game_over_sign
 
 %assign sizeOfProgram $ - $$
