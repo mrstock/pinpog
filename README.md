@@ -1,4 +1,3 @@
-[![Tsoding](https://img.shields.io/badge/twitch.tv-tsoding-purple?logo=twitch&style=for-the-badge)](https://www.twitch.tv/tsoding)
 [![Build Status](https://travis-ci.org/mrstock/pinpog.svg?branch=master)](https://travis-ci.org/mrstock/pinpog)
 
 # PinPog test
