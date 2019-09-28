@@ -14,5 +14,6 @@ deploy:
   file: pinpog
   overwrite: true
   on:
+	tags: true
     all_branches: true
     repo: mrstock/pinpog
